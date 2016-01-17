@@ -36,14 +36,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LeagueSharp">
-      <HintPath>C:\Users\Sebby\Documents\LeagueSharp\LeagueSharp\LeagueSharp\System\LeagueSharp.dll</HintPath>
+    <Reference Include="EloBuddy">
+      <HintPath>..\..\..\..\..\Program Files (x86)\EloBuddy\System\EloBuddy.dll</HintPath>
     </Reference>
-    <Reference Include="LeagueSharp.Common">
-      <HintPath>C:\Users\Sebby\Documents\LeagueSharp\LeagueSharp\LeagueSharp\System\LeagueSharp.Common.dll</HintPath>
+    <Reference Include="EloBuddy.SDK">
+      <HintPath>..\..\..\..\..\Program Files (x86)\EloBuddy\System\EloBuddy.SDK.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>C:\Users\Sebby\Documents\LeagueSharp\LeagueSharp\LeagueSharp\System\SharpDX.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files (x86)\EloBuddy\System\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
