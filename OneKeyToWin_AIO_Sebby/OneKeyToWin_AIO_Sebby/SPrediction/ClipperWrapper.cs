@@ -22,8 +22,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SharpDX;
-using LeagueSharp;
-using LeagueSharp.Common;
+using EloBuddy;
+using EloBuddy.SDK;
 using ClipperLib;
 //typedefs
 using Path = System.Collections.Generic.List<ClipperLib.IntPoint>;
