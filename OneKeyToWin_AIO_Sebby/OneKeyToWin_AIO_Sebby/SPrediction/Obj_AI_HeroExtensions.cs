@@ -22,8 +22,8 @@ using System.Linq;
 using System.Text;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
-using LeagueSharp;
-using LeagueSharp.Common;
+using EloBuddy;
+using EloBuddy.SDK;
 
 namespace SPrediction
 {
