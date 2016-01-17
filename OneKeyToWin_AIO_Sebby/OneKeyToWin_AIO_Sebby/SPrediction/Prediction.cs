@@ -24,8 +24,8 @@ using System.Text;
 using System.Threading;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
-using LeagueSharp;
-using LeagueSharp.Common;
+using EloBuddy;
+using EloBuddy.SDK;
 using SharpDX;
 
 namespace SPrediction
