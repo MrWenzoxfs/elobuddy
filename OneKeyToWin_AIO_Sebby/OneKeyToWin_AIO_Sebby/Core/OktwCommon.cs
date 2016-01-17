@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using LeagueSharp;
-using LeagueSharp.Common;
+using EloBuddy;
+using EloBuddy.SDK;
 using SharpDX;
 namespace OneKeyToWin_AIO_Sebby
 {
