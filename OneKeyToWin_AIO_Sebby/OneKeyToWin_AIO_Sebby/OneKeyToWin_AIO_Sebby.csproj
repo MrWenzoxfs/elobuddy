@@ -46,6 +46,9 @@
     <Reference Include="EloBuddy.SDK">
       <HintPath>..\..\..\..\..\Program Files (x86)\EloBuddy\System\EloBuddy.SDK.dll</HintPath>
     </Reference>
+    <Reference Include="EloBuddy.Sandbox">
+      <HintPath>C:\Users\lveld\Documents\Projects\EloBuddy\AdEvade\AdEvade\Dependencies\EloBuddy.Sandbox.dll</HintPath>
+    </Reference>
     <Reference Include="SharpDX, Version=2.6.3.0, Culture=neutral, PublicKeyToken=345b829e6e492981, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>C:\Users\Sebby\Documents\LeagueSharp\LeagueSharp\LeagueSharp\System\SharpDX.dll</HintPath>
